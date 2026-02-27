@@ -782,6 +782,6 @@ Please maintain proper attribution and follow academic integrity guidelines.
 
 **Last Updated:** February 2026  
 **Python Version:** 3.8+  
-**Author:** Modern OS Course Implementation
+**Author:** Harshitha S Shankar
 
 **For detailed Linux/WSL setup, see:** [LINUX_SETUP.md](LINUX_SETUP.md)
